@@ -4,10 +4,6 @@ Link to the competition: https://www.kaggle.com/uciml/student-alcohol-consumptio
 
 Student's alcohol consumption is a serious problem accross the globe. In that situation Kaggle came up with the dataset of predicting the cases.
 
-About the dataset:
-
-It contains 2 file - train.csv and test.csv These files holds data for 173 countries and daywise confirmed cases and fatalties of total 70 days. Also, these details are specified province region wise.
-
 Now, firstly I started with feature engineering.
 
     There were no null values for Province_Region hence no need for data cleaning.
